@@ -17,5 +17,5 @@ public class SumOfArrayElements {
 
         System.out.printf("Sum of elements of array is %,.2f",sumOfArray);
 
-    }
+    }   
 }
